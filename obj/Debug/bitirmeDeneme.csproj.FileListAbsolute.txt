@@ -1,0 +1,12 @@
+c:\users\emre\documents\visual studio 2013\Projects\bitirmeDeneme\bitirmeDeneme\bin\bitirmeDeneme.dll.config
+c:\users\emre\documents\visual studio 2013\Projects\bitirmeDeneme\bitirmeDeneme\bin\bitirmeDeneme.dll
+c:\users\emre\documents\visual studio 2013\Projects\bitirmeDeneme\bitirmeDeneme\bin\bitirmeDeneme.pdb
+c:\users\emre\documents\visual studio 2013\Projects\bitirmeDeneme\bitirmeDeneme\obj\Debug\bitirmeDeneme.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2013\Projects\bitirmeDeneme\bitirmeDeneme\obj\Debug\bitirmeDeneme.dll
+c:\users\emre\documents\visual studio 2013\Projects\bitirmeDeneme\bitirmeDeneme\obj\Debug\bitirmeDeneme.pdb
+C:\Users\Emre\Desktop\bitirmeDeneme\bitirmeDeneme\bin\bitirmeDeneme.dll.config
+C:\Users\Emre\Desktop\bitirmeDeneme\bitirmeDeneme\bin\bitirmeDeneme.dll
+C:\Users\Emre\Desktop\bitirmeDeneme\bitirmeDeneme\bin\bitirmeDeneme.pdb
+C:\Users\Emre\Desktop\bitirmeDeneme\bitirmeDeneme\obj\Debug\bitirmeDeneme.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\bitirmeDeneme\bitirmeDeneme\obj\Debug\bitirmeDeneme.dll
+C:\Users\Emre\Desktop\bitirmeDeneme\bitirmeDeneme\obj\Debug\bitirmeDeneme.pdb
